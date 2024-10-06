@@ -1,0 +1,6 @@
+bitbucket:
+  org: deeplocal
+  repos:
+    - gumpy
+github:
+  org: gumbandapp
